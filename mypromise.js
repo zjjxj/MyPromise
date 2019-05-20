@@ -1,4 +1,4 @@
-// 定义promise的三种状态值3
+// 定义promise的三种状态值4
 const PENDING = 'PENDING';
 const FULFILLED = 'FULFILLED';
 const REJECTED = 'REJECTED';
